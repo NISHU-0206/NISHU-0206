@@ -61,7 +61,7 @@ I'm a passionate and curious developer focused on **Full Stack Web Development**
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-jain0206)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-jain0206/)
 
 ---
 
