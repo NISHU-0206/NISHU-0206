@@ -8,7 +8,7 @@ I'm a passionate and curious developer focused on **Full Stack Web Development**
 - 📚 Completed Internship: Python Developer @ Code Alpha, AI Intern @ Novitech Technologies Pvt Ltd
 - 📊 Data Projects: Time Series Visualizer, Medical Data Dashboard, Sea Level Predictor  
 - 🤝 Open to collaborating on: Web Apps, Dashboards, AI Tools, Open Source  
-- 📫 Reach me at: nishantjain0206@gmail.com  
+- 📫 Reach me at: nishant_jn@outlook.com  
 - ⚡ Fun fact: I debug better after a cup of tea ☕💡
 
 ---
