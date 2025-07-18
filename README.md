@@ -2,9 +2,9 @@
 
 I'm a passionate and curious developer focused on **Full Stack Web Development**, **Data Science**, and **DevOps**. I love building real-world projects that solve problems and create impact.
 
-- 🔭 Currently working on: AI-powered Referral & Reward System, Data Visualization Dashboards, and AI&ML models  
+- 🔭 Currently working on: Data Visualization Dashboards, and AI&ML models  
 - 🌱 Currently learning: Docker, Advanced React.js, and Cloud Technologies  
-- 🧠 Past Projects: Stock Portfolio Tracker, Chatbot, Hangman Game, CPU Scheduling Simulator  
+- 🧠 Past Projects: Referral & Reward System, Stock Portfolio Tracker, Chatbot, Hangman Game, CPU Scheduling Simulator  
 - 📚 Completed Internship: Python Developer @ Code Alpha, AI Intern @ Novitech Technologies Pvt Ltd, DA Intern @ Novitech Technologies Pvt Ltd
 - 📊 Data Projects: Time Series Visualizer, Medical Data Dashboard, Sea Level Predictor  
 - 🤝 Open to collaborating on: Web Apps, Dashboards, AI Tools, Open Source  
@@ -55,7 +55,7 @@ I'm a passionate and curious developer focused on **Full Stack Web Development**
 - 🧠 [**Basic Chatbot**](https://github.com/NISHU-0206/ChatbotHangmanTracker/blob/main/chatbot) – Simple AI-based chatbot using Python  
 - 🕹 [**Demographic Data Analyzer**](https://github.com/NISHU-0206/Data-Analysis-with-Python/blob/main/demographic_data_analyzer.py) – Classic word-guessing game in Python  
 - ⚙️ [**CPU Scheduling Simulator**](https://github.com/NISHU-0206/CPU-Scheduling-Simulator/blob/main/CPU%20Scheduling%20Algorithms%20Simulator) – Visualize SJF, LJF, RR, and more  
-- 📊 [**Data Visualization Dashboard**](https://github.com/NISHU-0206/My-Dashboard) – Interactive D3.js dashboard using MongoDB and Node.js  
+- 📊 [**Data Visualization Dashboard**](https://github.com/NISHU-0206/My-Dashboard) – Interactive D3.js dashboard using React.js and Python Flask API  
 
 ---
 
