@@ -51,7 +51,7 @@ I'm a passionate and curious developer focused on **Full Stack Web Development**
 
 ## 🚀 Highlight Projects
 
-- 🎯 [**Referral and Reward System**](https://github.com/NISHU-0206/ChatbotHangmanTracker/blob/main/Stock%20portfolio%20tracker) – Real time refer and get rewards
+- 🎯 [**Referral and Reward System**](https://github.com/NISHU-0206/Referral-Reward-System) – Real time refer and get rewards
 - 🎯 [**Stock Portfolio Tracker**](https://github.com/NISHU-0206/ChatbotHangmanTracker/blob/main/Stock%20portfolio%20tracker) – Track stock holdings and performance with ease  
 - 🧠 [**Basic Chatbot**](https://github.com/NISHU-0206/ChatbotHangmanTracker/blob/main/chatbot) – Simple AI-based chatbot using Python  
 - 🕹 [**Demographic Data Analyzer**](https://github.com/NISHU-0206/Data-Analysis-with-Python/blob/main/demographic_data_analyzer.py) – Classic word-guessing game in Python  
