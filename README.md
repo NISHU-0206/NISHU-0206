@@ -2,12 +2,12 @@
 
 I'm a passionate and curious developer focused on **Full Stack Web Development**, **Data Science**, and **DevOps**. I love building real-world projects that solve problems and create impact.
 
-- 🔭 Currently working on: Data Visualization Dashboards, and AI&ML models  
-- 🌱 Currently learning: Docker, Advanced React.js, and Cloud Technologies  
-- 🧠 Past Projects: Referral & Reward System, Stock Portfolio Tracker, Chatbot, Hangman Game, CPU Scheduling Simulator  
+- 🔭 Currently working on: Data Visualization Dashboards, Docker, Advanced React.js, and Backend Technologies  
+- 🌱 Currently learning: Kubernetes, AI&ML Models, and Cloud Technologies
+- 🧠 Past Projects: Referral & Reward System, Interactive Dashboard Chatbot, Hangman Game, CPU Scheduling Simulator  
 - 📚 Completed Internship: Python Developer @ Code Alpha, AI Intern @ Novitech Technologies Pvt Ltd, DA Intern @ Novitech Technologies Pvt Ltd
-- 📊 Data Projects: Time Series Visualizer, Medical Data Dashboard, Sea Level Predictor  
-- 🤝 Open to collaborating on: Web Apps, Dashboards, AI Tools, Open Source  
+- 📊 Data Projects: Time Series Visualizer, Medical Data Dashboard, Sea Level Predictor, Stock Portfolio Tracker
+- 🤝 Open to collaborating on: Web Apps, Dashboards, AI Tools, Open Source, DevOps  
 - 📫 Reach me at: nishant_jn@outlook.com  
 - ⚡ Fun fact: I debug better after a cup of tea ☕💡
 
